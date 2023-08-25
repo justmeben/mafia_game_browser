@@ -14,10 +14,19 @@
         <a href="index.html" style="text-decoration: none; color: white"><h1>Mafia Games Browser</h1></a>
     </nav>
 
+    <div class="player-select-container">
+        <label for="playerSelect"><strong>Highlight player:</strong></label>
+        <select id="playerSelect">
+            <option value="">None</option>
+            <!-- Player options will be populated by JavaScript -->
+        </select>
+    </div>
+    
+
     <div class="games-container" id="gamesContainer">
         <!-- JS will populate the games here -->
     </div>
-    
+
     <script src="shared.js"></script>
     <script src="scripts.js"></script>
 </body>

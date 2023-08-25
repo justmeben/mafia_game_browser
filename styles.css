@@ -42,14 +42,32 @@ body {
     border-bottom: 1px solid #AAA;
 }
 
-.game-box.winner-citizen, .game-box.winner-citizen .game-number{
+.game-box.winner-citizen, .game-box.winner-citizen .game-number, .game-box.winner-citizen .game-player{
     border-color: #ff8a8a;
 }
-.game-box.winner-mafia, .game-box.winner-mafia .game-number{
+.game-box.winner-mafia, .game-box.winner-mafia .game-number, .game-box.winner-mafia .game-player{
     border-color: #7b7b7b;
 }
 
 .game-winner,
 .game-duration {
     margin-bottom: 8px;
+}
+.game-player {
+    margin-top: 20px;
+    border-top: 1px solid;
+}
+
+.player-select-container {
+    margin: 20px 0;
+    text-align: center;
+}
+
+#playerSelect {
+    padding: 8px 12px;
+    font-size: 16px;
+}
+
+.hidden{
+    display: none;
 }
