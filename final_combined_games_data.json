@@ -1,0 +1,5149 @@
+[
+    {
+        "id": "117841",
+        "#": 1,
+        "date": "19/01/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Funtone",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "mordi",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "free",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "mentos22",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "DiffMaker",
+                "role": "Don",
+                "is_win": false,
+                "bonus": -0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": null,
+        "game": 1,
+        "leave_order": [
+            {
+                "player_num": 4,
+                "method": "killed"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            },
+            {
+                "player_num": 5,
+                "method": "killed"
+            },
+            {
+                "player_num": 8,
+                "method": "voted"
+            },
+            {
+                "player_num": 2,
+                "method": "voted"
+            }
+        ],
+        "misses": 3,
+        "mafias_remaining": 0,
+        "citizens_remaining": 4,
+        "length": 3600,
+        "rounds": 6,
+        "youtube_id": "EgXi8VsqC0A",
+        "sheriffs": 2,
+        "win_move_hit": 0,
+        "sheriff_killed_first": true,
+        "sheriff_killed": true
+    },
+    {
+        "id": "117842",
+        "#": 2,
+        "date": "19/01/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Funtone",
+                "role": "Don",
+                "is_win": false,
+                "bonus": -0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "mordi",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": -0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "IronDragon81",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": true
+            },
+            {
+                "#": 7,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "DiffMaker",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": -0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "mentos22",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": null,
+        "game": 2,
+        "leave_order": [
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 4,
+                "method": "voted"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            },
+            {
+                "player_num": 10,
+                "method": "killed"
+            },
+            {
+                "player_num": 2,
+                "method": "killed"
+            }
+        ],
+        "mafias_remaining": 0,
+        "citizens_remaining": 4,
+        "length": 2145,
+        "rounds": 3,
+        "youtube_id": "qH5436rCmg0",
+        "sheriffs": 2,
+        "win_move_hit": 0,
+        "sheriff_killed": true,
+        "mafia_self_kill": true
+    },
+    {
+        "id": "117843",
+        "#": 3,
+        "date": "19/01/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "free",
+                "role": "Don",
+                "is_win": false,
+                "bonus": -0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "IronDragon81",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Churchill",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Funtone",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "mentos22",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": true
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "3, 5, 8",
+        "game": 3,
+        "leave_order": [
+            {
+                "player_num": 10,
+                "method": "killed"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            },
+            {
+                "player_num": 3,
+                "method": "killed"
+            },
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            },
+            {
+                "player_num": 4,
+                "method": "killed"
+            },
+            {
+                "player_num": 2,
+                "method": "voted"
+            },
+            {
+                "player_num": 5,
+                "method": "voted"
+            }
+        ],
+        "misses": 1,
+        "mafias_remaining": 0,
+        "citizens_remaining": 2,
+        "length": 3387,
+        "rounds": 5,
+        "youtube_id": "ghx5ib8VhRA",
+        "sheriffs": 1,
+        "win_move_hit": 0,
+        "nihushon": true
+    },
+    {
+        "id": "117844",
+        "#": 4,
+        "date": "19/01/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "mentos22",
+                "role": "Don",
+                "is_win": false,
+                "bonus": -0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": true
+            },
+            {
+                "#": 4,
+                "name": "IronDragon81",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": -0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "DiffMaker",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": -0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "mordi",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Funtone",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Punisher",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": null,
+        "game": 4,
+        "leave_order": [
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            },
+            {
+                "player_num": 3,
+                "method": "voted"
+            },
+            {
+                "player_num": 2,
+                "method": "voted"
+            },
+            {
+                "player_num": 5,
+                "method": "killed"
+            },
+            {
+                "player_num": 10,
+                "method": "killed"
+            },
+            {
+                "player_num": 8,
+                "method": "killed"
+            },
+            {
+                "player_num": 4,
+                "method": "killed"
+            }
+        ],
+        "mafias_remaining": 0,
+        "citizens_remaining": 2,
+        "length": 2658,
+        "rounds": 4,
+        "youtube_id": "Wjq2VK1NAr8",
+        "sheriffs": 2,
+        "win_move_hit": 0,
+        "sheriff_killed": true,
+        "mafia_self_kill": true,
+        "nihushon": true
+    },
+    {
+        "id": "117845",
+        "#": 5,
+        "date": "19/01/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "mentos22",
+                "role": "Don",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "mordi",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "free",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Funtone",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.05,
+                "is_killed_first": true
+            },
+            {
+                "#": 5,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Punisher",
+                "role": "Sheriff",
+                "is_win": false,
+                "bonus": -0.4,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "IronDragon81",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Mafia",
+        "winning_move": "2, 6, 7",
+        "game": 5,
+        "leave_order": [
+            {
+                "player_num": 5,
+                "method": "voted"
+            },
+            {
+                "player_num": 4,
+                "method": "killed"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            },
+            {
+                "player_num": 10,
+                "method": "killed"
+            }
+        ],
+        "mafias_remaining": 3,
+        "citizens_remaining": 3,
+        "length": 1878,
+        "rounds": 3,
+        "youtube_id": "4yLJ-91lXL0",
+        "sheriffs": 2,
+        "win_move_hit": 1
+    },
+    {
+        "id": "120315",
+        "#": 6,
+        "date": "23/02/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Аватарка",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Rocket",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Ozzmosis",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Demagogue",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Churchill",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "SchrodingersCat",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.4,
+                "is_killed_first": true
+            },
+            {
+                "#": 9,
+                "name": "mentos22",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "2, 3, 7",
+        "game": 6,
+        "leave_order": [
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 8,
+                "method": "killed"
+            },
+            {
+                "player_num": 3,
+                "method": "voted"
+            },
+            {
+                "player_num": 6,
+                "method": "killed"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            },
+            {
+                "player_num": 9,
+                "method": "killed"
+            },
+            {
+                "player_num": 10,
+                "method": "voted"
+            },
+            {
+                "player_num": 2,
+                "method": "voted"
+            }
+        ],
+        "mafias_remaining": 0,
+        "citizens_remaining": 2,
+        "length": 2793,
+        "rounds": 5,
+        "youtube_id": "SPM75LeyCfo",
+        "sheriffs": 2,
+        "win_move_hit": 3,
+        "sheriff_killed": true,
+        "nihushon": true
+    },
+    {
+        "id": "120316",
+        "#": 7,
+        "date": "23/02/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "DiffMaker",
+                "role": "Sheriff",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.05,
+                "is_killed_first": true
+            },
+            {
+                "#": 3,
+                "name": "Аватарка",
+                "role": "Don",
+                "is_win": true,
+                "bonus": 0.5,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Punisher",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Demagogue",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "free",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Mafia",
+        "winning_move": "4, 6, 7",
+        "game": 7,
+        "leave_order": [
+            {
+                "player_num": 2,
+                "method": "killed"
+            },
+            {
+                "player_num": 4,
+                "method": "voted"
+            },
+            {
+                "player_num": 8,
+                "method": "killed"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            },
+            {
+                "player_num": 6,
+                "method": "killed"
+            },
+            {
+                "player_num": 10,
+                "method": "voted"
+            },
+            {
+                "player_num": 7,
+                "method": "killed"
+            },
+            {
+                "player_num": 1,
+                "method": "voted"
+            }
+        ],
+        "mafias_remaining": 1,
+        "citizens_remaining": 1,
+        "length": 3244,
+        "rounds": 6,
+        "youtube_id": "xvmj4Tw3-xw",
+        "sheriffs": 2,
+        "win_move_hit": 1
+    },
+    {
+        "id": "120317",
+        "#": 8,
+        "date": "23/02/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "SchrodingersCat",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "mentos22",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Punisher",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Gandalf the black",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Аватарка",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "DiffMaker",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.25,
+                "is_killed_first": true
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "1, 2, 4",
+        "game": 8,
+        "leave_order": [
+            {
+                "player_num": 10,
+                "method": "killed"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            },
+            {
+                "player_num": 3,
+                "method": "killed"
+            },
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 8,
+                "method": "killed"
+            },
+            {
+                "player_num": 4,
+                "method": "voted"
+            },
+            {
+                "player_num": 2,
+                "method": "killed"
+            },
+            {
+                "player_num": 5,
+                "method": "voted"
+            }
+        ],
+        "mafias_remaining": 0,
+        "citizens_remaining": 2,
+        "length": 3354,
+        "rounds": 6,
+        "youtube_id": "Glqu-WZKKO4",
+        "sheriffs": 2,
+        "win_move_hit": 2,
+        "nihushon": true
+    },
+    {
+        "id": "120318",
+        "#": 9,
+        "date": "23/02/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "mentos22",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "SchrodingersCat",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Demagogue",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Punisher",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "DiffMaker",
+                "role": "Sheriff",
+                "is_win": false,
+                "bonus": 0.3,
+                "is_killed_first": true
+            },
+            {
+                "#": 8,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Аватарка",
+                "role": "Don",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Mafia",
+        "winning_move": "2, 5, 6",
+        "game": 9,
+        "leave_order": [
+            {
+                "player_num": 7,
+                "method": "killed"
+            },
+            {
+                "player_num": 5,
+                "method": "voted"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            },
+            {
+                "player_num": 4,
+                "method": "killed"
+            },
+            {
+                "player_num": 10,
+                "method": "voted"
+            },
+            {
+                "player_num": 1,
+                "method": "killed"
+            },
+            {
+                "player_num": 3,
+                "method": "voted"
+            }
+        ],
+        "mafias_remaining": 1,
+        "citizens_remaining": 1,
+        "length": 2865,
+        "rounds": 5,
+        "youtube_id": "Mdz4GA1d8jI",
+        "sheriffs": 1,
+        "win_move_hit": 2,
+        "sheriff_killed_first": true,
+        "sheriff_killed": true
+    },
+    {
+        "id": "120319",
+        "#": 10,
+        "date": "23/02/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Аватарка",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Rocket",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": -0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Punisher",
+                "role": "Sheriff",
+                "is_win": false,
+                "bonus": 0.3,
+                "is_killed_first": true
+            },
+            {
+                "#": 6,
+                "name": "mentos22",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Demagogue",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Ozzmosis",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "DiffMaker",
+                "role": "Don",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Mafia",
+        "winning_move": "3, 8, 9",
+        "game": 10,
+        "leave_order": [
+            {
+                "player_num": 5,
+                "method": "killed"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            },
+            {
+                "player_num": 4,
+                "method": "killed"
+            },
+            {
+                "player_num": 2,
+                "method": "voted"
+            },
+            {
+                "player_num": 1,
+                "method": "killed"
+            },
+            {
+                "player_num": 8,
+                "method": "voted"
+            }
+        ],
+        "mafias_remaining": 2,
+        "citizens_remaining": 2,
+        "length": 3009,
+        "rounds": 5,
+        "youtube_id": "Q1-okGym8ko",
+        "sheriffs": 1,
+        "win_move_hit": 2,
+        "sheriff_killed_first": true,
+        "sheriff_killed": true,
+        "nihushon": true
+    },
+    {
+        "id": "121949",
+        "#": 11,
+        "date": "23/03/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": -0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "DiffMaker",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "mentos22",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Funtone",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.5,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Demagogue",
+                "role": "Don",
+                "is_win": false,
+                "bonus": -0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": null,
+        "game": 11,
+        "leave_order": [
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 9,
+                "method": "killed"
+            },
+            {
+                "player_num": 4,
+                "method": "voted"
+            },
+            {
+                "player_num": 2,
+                "method": "killed"
+            },
+            {
+                "player_num": 6,
+                "method": "killed"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            }
+        ],
+        "sheriffs": 2,
+        "misses": 2,
+        "mafias_remaining": 0,
+        "citizens_remaining": 4,
+        "length": 3743,
+        "rounds": 6,
+        "youtube_id": "TE5WBbzYXiU",
+        "win_move_hit": 0,
+        "mafia_self_kill": true
+    },
+    {
+        "id": "121950",
+        "#": 12,
+        "date": "23/03/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Churchill",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "DiffMaker",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": true
+            },
+            {
+                "#": 5,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Demagogue",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "mentos22",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Funtone",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "1, 2, 6",
+        "game": 12,
+        "leave_order": [
+            {
+                "player_num": 4,
+                "method": "killed"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            },
+            {
+                "player_num": 8,
+                "method": "voted"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            },
+            {
+                "player_num": 10,
+                "method": "killed"
+            },
+            {
+                "player_num": 3,
+                "method": "voted"
+            },
+            {
+                "player_num": 1,
+                "method": "killed"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            }
+        ],
+        "sheriffs": 1,
+        "mafias_remaining": 0,
+        "citizens_remaining": 2,
+        "length": 2998,
+        "rounds": 4,
+        "youtube_id": "L92HnqPWthA",
+        "win_move_hit": 1,
+        "sheriff_killed_first": true,
+        "sheriff_killed": true,
+        "nihushon": true
+    },
+    {
+        "id": "121951",
+        "#": 13,
+        "date": "23/03/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Funtone",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Churchill",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "mentos22",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": true
+            },
+            {
+                "#": 5,
+                "name": "SchrodingersCat",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Demagogue",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Rocket",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "1, 2, 5",
+        "game": 13,
+        "leave_order": [
+            {
+                "player_num": 4,
+                "method": "killed"
+            },
+            {
+                "player_num": 3,
+                "method": "voted"
+            },
+            {
+                "player_num": 1,
+                "method": "killed"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            },
+            {
+                "player_num": 6,
+                "method": "killed"
+            },
+            {
+                "player_num": 8,
+                "method": "voted"
+            },
+            {
+                "player_num": 7,
+                "method": "killed"
+            },
+            {
+                "player_num": 5,
+                "method": "voted"
+            }
+        ],
+        "sheriffs": 2,
+        "mafias_remaining": 0,
+        "citizens_remaining": 2,
+        "length": 3341,
+        "rounds": 5,
+        "youtube_id": "V0e7U5Hfq1o",
+        "win_move_hit": 1,
+        "nihushon": true
+    },
+    {
+        "id": "121952",
+        "#": 14,
+        "date": "23/03/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Ozzmosis",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Demagogue",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": true
+            },
+            {
+                "#": 6,
+                "name": "Rocket",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "DiffMaker",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Funtone",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "mentos22",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.4,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "1, 4, 7",
+        "game": 14,
+        "leave_order": [
+            {
+                "player_num": 5,
+                "method": "killed"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            },
+            {
+                "player_num": 3,
+                "method": "killed"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            },
+            {
+                "player_num": 4,
+                "method": "killed"
+            },
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 10,
+                "method": "killed"
+            },
+            {
+                "player_num": 2,
+                "method": "voted"
+            }
+        ],
+        "sheriffs": 2,
+        "mafias_remaining": 0,
+        "citizens_remaining": 2,
+        "length": 3237,
+        "rounds": 5,
+        "youtube_id": "UoL1LB0dr8E",
+        "win_move_hit": 1,
+        "sheriff_killed": true,
+        "nihushon": true
+    },
+    {
+        "id": "121953",
+        "#": 15,
+        "date": "23/03/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Funtone",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Churchill",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "mentos22",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Rocket",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": -0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Demagogue",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": -0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Gandalf the black",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": null,
+        "game": 15,
+        "leave_order": [
+            {
+                "player_num": 5,
+                "method": "voted"
+            },
+            {
+                "player_num": 7,
+                "method": "killed"
+            },
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 2,
+                "method": "killed"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            }
+        ],
+        "sheriffs": 2,
+        "misses": 2,
+        "mafias_remaining": 0,
+        "citizens_remaining": 5,
+        "length": 3188,
+        "rounds": 5,
+        "youtube_id": "ARucuywNnUI",
+        "win_move_hit": 0,
+        "sheriff_killed": true
+    },
+    {
+        "id": "123250",
+        "#": 16,
+        "date": "13/04/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "DiffMaker",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "IronDragon81",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Churchill",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.25,
+                "is_killed_first": true
+            },
+            {
+                "#": 6,
+                "name": "Funtone",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "mentos22",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Punisher",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "free",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "2, 4, 7",
+        "game": 16,
+        "leave_order": [
+            {
+                "player_num": 5,
+                "method": "killed"
+            },
+            {
+                "player_num": 3,
+                "method": "voted"
+            },
+            {
+                "player_num": 10,
+                "method": "killed"
+            },
+            {
+                "player_num": 4,
+                "method": "voted"
+            },
+            {
+                "player_num": 7,
+                "method": "killed"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            },
+            {
+                "player_num": 1,
+                "method": "killed"
+            },
+            {
+                "player_num": 2,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 0,
+        "citizens_remaining": 2,
+        "length": 3305,
+        "rounds": 5,
+        "sheriffs": 2,
+        "youtube_id": "aoI1byEIVrQ",
+        "win_move_hit": 2,
+        "sheriff_killed": true,
+        "nihushon": true
+    },
+    {
+        "id": "123251",
+        "#": 17,
+        "date": "13/04/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "IronDragon81",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "DiffMaker",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": true
+            },
+            {
+                "#": 4,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Funtone",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Gandalf the black",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "mentos22",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Churchill",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "2, 7, 9",
+        "game": 17,
+        "leave_order": [
+            {
+                "player_num": 3,
+                "method": "killed"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            },
+            {
+                "player_num": 6,
+                "method": "killed"
+            },
+            {
+                "player_num": 10,
+                "method": "voted"
+            },
+            {
+                "player_num": 2,
+                "method": "killed"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            },
+            {
+                "player_num": 1,
+                "method": "killed"
+            },
+            {
+                "player_num": 8,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 0,
+        "citizens_remaining": 2,
+        "length": 3188,
+        "rounds": 5,
+        "sheriffs": 2,
+        "youtube_id": "TX8P5I-MzZ0",
+        "win_move_hit": 1,
+        "sheriff_killed": true,
+        "nihushon": true
+    },
+    {
+        "id": "123252",
+        "#": 18,
+        "date": "13/04/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "DiffMaker",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "IronDragon81",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Rocket",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Funtone",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "mentos22",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Ozzmosis",
+                "role": "Sheriff",
+                "is_win": false,
+                "bonus": 0.05,
+                "is_killed_first": true
+            },
+            {
+                "#": 8,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Churchill",
+                "role": "Don",
+                "is_win": true,
+                "bonus": 0.4,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Mafia",
+        "winning_move": "3, 4, 8",
+        "game": 18,
+        "leave_order": [
+            {
+                "player_num": 7,
+                "method": "killed"
+            },
+            {
+                "player_num": 4,
+                "method": "voted"
+            },
+            {
+                "player_num": 6,
+                "method": "killed"
+            },
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 9,
+                "method": "killed"
+            },
+            {
+                "player_num": 3,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 2,
+        "citizens_remaining": 2,
+        "length": 2922,
+        "rounds": 4,
+        "sheriffs": 1,
+        "youtube_id": "_sW5kvah5mo",
+        "win_move_hit": 1,
+        "sheriff_killed_first": true,
+        "sheriff_killed": true,
+        "nihushon": true
+    },
+    {
+        "id": "123253",
+        "#": 19,
+        "date": "13/04/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.5,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "mentos22",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Funtone",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Churchill",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "IronDragon81",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": -0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Rocket",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": null,
+        "game": 19,
+        "leave_order": [
+            {
+                "player_num": 3,
+                "method": "killed"
+            },
+            {
+                "player_num": 10,
+                "method": "voted"
+            },
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 4,
+                "method": "voted"
+            },
+            {
+                "player_num": 2,
+                "method": "voted"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            },
+            {
+                "player_num": 5,
+                "method": "killed"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            }
+        ],
+        "misses": 2,
+        "mafias_remaining": 0,
+        "citizens_remaining": 2,
+        "length": 3152,
+        "rounds": 5,
+        "sheriffs": 2,
+        "youtube_id": "b65Jt7X2-Hg",
+        "win_move_hit": 0,
+        "nihushon": true
+    },
+    {
+        "id": "123254",
+        "#": 20,
+        "date": "13/04/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Funtone",
+                "role": "Sheriff",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Punisher",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Gandalf the black",
+                "role": "Don",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "IronDragon81",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Ozzmosis",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "mentos22",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.3,
+                "is_killed_first": true
+            }
+        ],
+        "winner": "Mafia",
+        "winning_move": "3, 4, 8",
+        "game": 20,
+        "leave_order": [
+            {
+                "player_num": 10,
+                "method": "killed"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            },
+            {
+                "player_num": 5,
+                "method": "killed"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 3,
+        "citizens_remaining": 3,
+        "length": 2393,
+        "rounds": 3,
+        "sheriffs": 2,
+        "youtube_id": "mwMCQUwtu0g",
+        "win_move_hit": 2
+    },
+    {
+        "id": "124574",
+        "#": 21,
+        "date": "11/05/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Churchill",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Demagogue",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": true
+            },
+            {
+                "#": 5,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "free",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "mentos22",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Funtone",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Rocket",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "SchrodingersCat",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.2,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "2, 5, 6",
+        "game": 21,
+        "leave_order": [
+            {
+                "player_num": 4,
+                "method": "killed"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            },
+            {
+                "player_num": 5,
+                "method": "killed"
+            },
+            {
+                "player_num": 2,
+                "method": "voted"
+            },
+            {
+                "player_num": 9,
+                "method": "killed"
+            },
+            {
+                "player_num": 3,
+                "method": "voted"
+            },
+            {
+                "player_num": 1,
+                "method": "killed"
+            },
+            {
+                "player_num": 10,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 0,
+        "citizens_remaining": 2,
+        "length": 3198,
+        "rounds": 4,
+        "sheriffs": 2,
+        "youtube_id": "VgUL-wrMoP4",
+        "win_move_hit": 1,
+        "sheriff_killed": true,
+        "nihushon": true
+    },
+    {
+        "id": "124575",
+        "#": 22,
+        "date": "11/05/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "DiffMaker",
+                "role": "Sheriff",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Ozzmosis",
+                "role": "Don",
+                "is_win": true,
+                "bonus": 0.4,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Demagogue",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "mentos22",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.2,
+                "is_killed_first": true
+            },
+            {
+                "#": 8,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "IronDragon81",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Mafia",
+        "winning_move": "5, 8, 10",
+        "game": 22,
+        "leave_order": [
+            {
+                "player_num": 7,
+                "method": "killed"
+            },
+            {
+                "player_num": 8,
+                "method": "voted"
+            },
+            {
+                "player_num": 3,
+                "method": "killed"
+            },
+            {
+                "player_num": 4,
+                "method": "voted"
+            },
+            {
+                "player_num": 2,
+                "method": "killed"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 2,
+        "citizens_remaining": 2,
+        "length": 2916,
+        "rounds": 4,
+        "sheriffs": 1,
+        "youtube_id": "Zsfdd8v7Wu4",
+        "win_move_hit": 1,
+        "sheriff_killed": true,
+        "nihushon": true
+    },
+    {
+        "id": "124576",
+        "#": 23,
+        "date": "11/05/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Demagogue",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "mentos22",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "IronDragon81",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": -0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "free",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Funtone",
+                "role": "Don",
+                "is_win": false,
+                "bonus": -0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Churchill",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": null,
+        "game": 23,
+        "leave_order": [
+            {
+                "player_num": 4,
+                "method": "voted"
+            },
+            {
+                "player_num": 2,
+                "method": "killed"
+            },
+            {
+                "player_num": 8,
+                "method": "voted"
+            },
+            {
+                "player_num": 7,
+                "method": "killed"
+            },
+            {
+                "player_num": 10,
+                "method": "voted"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            }
+        ],
+        "misses": 2,
+        "mafias_remaining": 0,
+        "citizens_remaining": 3,
+        "length": 3174,
+        "rounds": 5,
+        "sheriffs": 2,
+        "youtube_id": "ksIfTNzLQkI",
+        "win_move_hit": 0,
+        "sheriff_killed": true
+    },
+    {
+        "id": "124577",
+        "#": 24,
+        "date": "11/05/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "mentos22",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "SchrodingersCat",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "free",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.4,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Ozzmosis",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "IronDragon81",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.4,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Demagogue",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": -0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Funtone",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.25,
+                "is_killed_first": true
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "3, 4, 9",
+        "game": 24,
+        "leave_order": [
+            {
+                "player_num": 10,
+                "method": "killed"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            },
+            {
+                "player_num": 7,
+                "method": "killed"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            },
+            {
+                "player_num": 8,
+                "method": "killed"
+            },
+            {
+                "player_num": 3,
+                "method": "voted"
+            },
+            {
+                "player_num": 2,
+                "method": "killed"
+            },
+            {
+                "player_num": 1,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 0,
+        "citizens_remaining": 2,
+        "length": 3129,
+        "rounds": 5,
+        "sheriffs": 1,
+        "youtube_id": "rMfIaOQhy3o",
+        "win_move_hit": 2,
+        "sheriff_killed": true,
+        "nihushon": true
+    },
+    {
+        "id": "124578",
+        "#": 25,
+        "date": "11/05/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "mentos22",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": -0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Punisher",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Churchill",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Funtone",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "IronDragon81",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Demagogue",
+                "role": "Don",
+                "is_win": false,
+                "bonus": -0.2,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": null,
+        "game": 25,
+        "leave_order": [
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 5,
+                "method": "killed"
+            },
+            {
+                "player_num": 10,
+                "method": "voted"
+            },
+            {
+                "player_num": 3,
+                "method": "killed"
+            },
+            {
+                "player_num": 2,
+                "method": "voted"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            }
+        ],
+        "misses": 1,
+        "mafias_remaining": 0,
+        "citizens_remaining": 3,
+        "length": 2578,
+        "rounds": 4,
+        "sheriffs": 1,
+        "youtube_id": "PosXVxnTJNs",
+        "win_move_hit": 0,
+        "sheriff_killed": true
+    },
+    {
+        "id": "125924",
+        "#": 26,
+        "date": "10/06/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": true
+            },
+            {
+                "#": 3,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "SchrodingersCat",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Funtone",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Аватарка",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": -0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Punisher",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "1, 7, 9",
+        "game": 26,
+        "leave_order": [
+            {
+                "player_num": 2,
+                "method": "killed"
+            },
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 5,
+                "method": "killed"
+            },
+            {
+                "player_num": 4,
+                "method": "voted"
+            },
+            {
+                "player_num": 3,
+                "method": "killed"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            },
+            {
+                "player_num": 10,
+                "method": "killed"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 0,
+        "citizens_remaining": 2,
+        "length": 3176,
+        "rounds": 5,
+        "sheriffs": 2,
+        "youtube_id": "5sAEoAU0mT0",
+        "win_move_hit": 1,
+        "sheriff_killed": true,
+        "nihushon": true
+    },
+    {
+        "id": "125925",
+        "#": 27,
+        "date": "10/06/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Gandalf the black",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "IronDragon81",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.25,
+                "is_killed_first": true
+            },
+            {
+                "#": 6,
+                "name": "Churchill",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Funtone",
+                "role": "Don",
+                "is_win": false,
+                "bonus": -0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Аватарка",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Ozzmosis",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "1, 4, 6",
+        "game": 27,
+        "leave_order": [
+            {
+                "player_num": 5,
+                "method": "killed"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            },
+            {
+                "player_num": 8,
+                "method": "killed"
+            },
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 10,
+                "method": "killed"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 0,
+        "citizens_remaining": 4,
+        "length": 2685,
+        "rounds": 4,
+        "sheriffs": 1,
+        "youtube_id": "zIXizxd9ANs",
+        "win_move_hit": 2
+    },
+    {
+        "id": "125926",
+        "#": 28,
+        "date": "10/06/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "free",
+                "role": "Don",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "SchrodingersCat",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Funtone",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "IronDragon81",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Demagogue",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Аватарка",
+                "role": "Sheriff",
+                "is_win": false,
+                "bonus": 0.05,
+                "is_killed_first": true
+            }
+        ],
+        "winner": "Mafia",
+        "winning_move": "1, 3, 8",
+        "game": 28,
+        "leave_order": [
+            {
+                "player_num": 10,
+                "method": "killed"
+            },
+            {
+                "player_num": 3,
+                "method": "voted"
+            },
+            {
+                "player_num": 2,
+                "method": "killed"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            },
+            {
+                "player_num": 1,
+                "method": "killed"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 2,
+        "citizens_remaining": 2,
+        "length": 2870,
+        "rounds": 4,
+        "sheriffs": 1,
+        "youtube_id": "-rOPikeT0pc",
+        "win_move_hit": 1,
+        "sheriff_killed_first": true,
+        "sheriff_killed": true,
+        "nihushon": true
+    },
+    {
+        "id": "125927",
+        "#": 29,
+        "date": "10/06/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "free",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Аватарка",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Funtone",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Demagogue",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": true
+            },
+            {
+                "#": 7,
+                "name": "Punisher",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "IronDragon81",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "2, 4, 7",
+        "game": 29,
+        "leave_order": [
+            {
+                "player_num": 6,
+                "method": "killed"
+            },
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 9,
+                "method": "killed"
+            },
+            {
+                "player_num": 5,
+                "method": "voted"
+            },
+            {
+                "player_num": 4,
+                "method": "killed"
+            },
+            {
+                "player_num": 8,
+                "method": "voted"
+            },
+            {
+                "player_num": 2,
+                "method": "killed"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 0,
+        "citizens_remaining": 2,
+        "length": 3472,
+        "rounds": 5,
+        "sheriffs": 1,
+        "youtube_id": "8ieNN1FOwLI",
+        "win_move_hit": 1,
+        "sheriff_killed_first": true,
+        "sheriff_killed": true,
+        "nihushon": true
+    },
+    {
+        "id": "125928",
+        "#": 30,
+        "date": "10/06/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Demagogue",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "IronDragon81",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Funtone",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Churchill",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": true
+            },
+            {
+                "#": 6,
+                "name": "Аватарка",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Rocket",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.4,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "4, 6, 9",
+        "game": 30,
+        "leave_order": [
+            {
+                "player_num": 5,
+                "method": "killed"
+            },
+            {
+                "player_num": 4,
+                "method": "voted"
+            },
+            {
+                "player_num": 3,
+                "method": "killed"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            },
+            {
+                "player_num": 10,
+                "method": "killed"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            },
+            {
+                "player_num": 6,
+                "method": "killed"
+            },
+            {
+                "player_num": 2,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 0,
+        "citizens_remaining": 2,
+        "length": 3302,
+        "rounds": 5,
+        "sheriffs": 1,
+        "youtube_id": "aid8QpRwD3w",
+        "win_move_hit": 1,
+        "sheriff_killed_first": true,
+        "sheriff_killed": true,
+        "nihushon": true
+    },
+    {
+        "id": "127110",
+        "#": 31,
+        "date": "13/07/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "SchrodingersCat",
+                "role": "Sheriff",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.05,
+                "is_killed_first": true
+            },
+            {
+                "#": 6,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Ozzmosis",
+                "role": "Don",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Rocket",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Demagogue",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "mentos22",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Mafia",
+        "winning_move": "4, 7, 9",
+        "game": 31,
+        "leave_order": [
+            {
+                "player_num": 5,
+                "method": "killed"
+            },
+            {
+                "player_num": 2,
+                "method": "voted"
+            },
+            {
+                "player_num": 4,
+                "method": "killed"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 3,
+        "citizens_remaining": 3,
+        "length": 2334,
+        "rounds": 3,
+        "sheriffs": 2,
+        "youtube_id": "9zU9RjqHKeM",
+        "win_move_hit": 1
+    },
+    {
+        "id": "127112",
+        "#": 32,
+        "date": "13/07/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "IronDragon81",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Demagogue",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.35,
+                "is_killed_first": true
+            },
+            {
+                "#": 5,
+                "name": "mentos22",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Rocket",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "SchrodingersCat",
+                "role": "Sheriff",
+                "is_win": false,
+                "bonus": 0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Punisher",
+                "role": "Don",
+                "is_win": true,
+                "bonus": 0.4,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Mafia",
+        "winning_move": "5, 6, 7",
+        "game": 32,
+        "leave_order": [
+            {
+                "player_num": 4,
+                "method": "killed"
+            },
+            {
+                "player_num": 5,
+                "method": "voted"
+            },
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 8,
+                "method": "killed"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            },
+            {
+                "player_num": 2,
+                "method": "killed"
+            },
+            {
+                "player_num": 3,
+                "method": "voted"
+            }
+        ],
+        "misses": 1,
+        "mafias_remaining": 1,
+        "citizens_remaining": 1,
+        "length": 3488,
+        "rounds": 5,
+        "sheriffs": 2,
+        "youtube_id": "xxwsBBf5YI8",
+        "win_move_hit": 2
+    },
+    {
+        "id": "127113",
+        "#": 33,
+        "date": "13/07/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Punisher",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "mentos22",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "SchrodingersCat",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "free",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "IronDragon81",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Ozzmosis",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "6, 7, 8",
+        "game": 33,
+        "leave_order": [
+            {
+                "player_num": 4,
+                "method": "killed"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            },
+            {
+                "player_num": 7,
+                "method": "killed"
+            },
+            {
+                "player_num": 1,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 0,
+        "citizens_remaining": 6,
+        "length": 2354,
+        "rounds": 3,
+        "sheriffs": 2,
+        "youtube_id": "C1retRkFCQU",
+        "win_move_hit": 0,
+        "mafia_self_kill": true,
+        "sheriff_killed": true
+    },
+    {
+        "id": "127114",
+        "#": 34,
+        "date": "13/07/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Rocket",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Ozzmosis",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.4,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "IronDragon81",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "mentos22",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": true
+            },
+            {
+                "#": 8,
+                "name": "Gandalf the black",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "SchrodingersCat",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "5, 6, 8",
+        "game": 34,
+        "leave_order": [
+            {
+                "player_num": 7,
+                "method": "killed"
+            },
+            {
+                "player_num": 5,
+                "method": "voted"
+            },
+            {
+                "player_num": 1,
+                "method": "killed"
+            },
+            {
+                "player_num": 10,
+                "method": "voted"
+            },
+            {
+                "player_num": 9,
+                "method": "killed"
+            },
+            {
+                "player_num": 8,
+                "method": "voted"
+            },
+            {
+                "player_num": 6,
+                "method": "killed"
+            },
+            {
+                "player_num": 2,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 2,
+        "citizens_remaining": 2,
+        "length": 3235,
+        "rounds": 5,
+        "sheriffs": 2,
+        "youtube_id": "fz1T7MTpSio",
+        "win_move_hit": 0,
+        "mafia_self_kill": true,
+        "nihushon": true
+    },
+    {
+        "id": "127115",
+        "#": 35,
+        "date": "13/07/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "SchrodingersCat",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "free",
+                "role": "Sheriff",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "IronDragon81",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "DiffMaker",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "mentos22",
+                "role": "Don",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.1,
+                "is_killed_first": true
+            }
+        ],
+        "winner": "Mafia",
+        "winning_move": "1, 3, 6",
+        "game": 35,
+        "leave_order": [
+            {
+                "player_num": 10,
+                "method": "killed"
+            },
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 4,
+                "method": "voted"
+            },
+            {
+                "player_num": 8,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 3,
+        "citizens_remaining": 3,
+        "length": 1979,
+        "rounds": 2,
+        "sheriffs": 1,
+        "youtube_id": "3RUq0kMdiyI",
+        "win_move_hit": 0
+    },
+    {
+        "id": "127888",
+        "#": 36,
+        "date": "03/08/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Punisher",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "mentos22",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Funtone",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": true
+            },
+            {
+                "#": 6,
+                "name": "Rocket",
+                "role": "Don",
+                "is_win": false,
+                "bonus": -0.1,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "3, 7, 9",
+        "game": 36,
+        "leave_order": [
+            {
+                "player_num": 5,
+                "method": "killed"
+            },
+            {
+                "player_num": 3,
+                "method": "voted"
+            },
+            {
+                "player_num": 7,
+                "method": "killed"
+            },
+            {
+                "player_num": 10,
+                "method": "voted"
+            },
+            {
+                "player_num": 8,
+                "method": "killed"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            },
+            {
+                "player_num": 2,
+                "method": "killed"
+            },
+            {
+                "player_num": 4,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 2,
+        "citizens_remaining": 2,
+        "length": 3244,
+        "rounds": 5,
+        "sheriffs": 2,
+        "youtube_id": "mV8e87IpFBs",
+        "win_move_hit": 1,
+        "sheriff_killed_first": true,
+        "sheriff_killed": true,
+        "nihushon": true
+    },
+    {
+        "id": "127889",
+        "#": 37,
+        "date": "03/08/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "IronDragon81",
+                "role": "Sheriff",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "mentos22",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.2,
+                "is_killed_first": true
+            },
+            {
+                "#": 3,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "DiffMaker",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Gandalf the black",
+                "role": "Don",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Funtone",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": -0.4,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "Ozzmosis",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Mafia",
+        "winning_move": "4, 7, 10",
+        "game": 37,
+        "leave_order": [
+            {
+                "player_num": 2,
+                "method": "killed"
+            },
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 5,
+                "method": "killed"
+            },
+            {
+                "player_num": 4,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 3,
+        "citizens_remaining": 3,
+        "length": 2415,
+        "rounds": 3,
+        "sheriffs": 2,
+        "youtube_id": "bqWsAF73_5I",
+        "win_move_hit": 1
+    },
+    {
+        "id": "127890",
+        "#": 38,
+        "date": "03/08/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "SchrodingersCat",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Gandalf the black",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "DiffMaker",
+                "role": "Don",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": -0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "mentos22",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Punisher",
+                "role": "Sheriff",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 8,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "Churchill",
+                "role": "Mafia",
+                "is_win": true,
+                "bonus": 0.3,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "IronDragon81",
+                "role": "Citizen",
+                "is_win": false,
+                "bonus": 0.05,
+                "is_killed_first": true
+            }
+        ],
+        "winner": "Mafia",
+        "winning_move": "2, 5, 7",
+        "game": 38,
+        "leave_order": [
+            {
+                "player_num": 10,
+                "method": "killed"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            },
+            {
+                "player_num": 3,
+                "method": "killed"
+            },
+            {
+                "player_num": 2,
+                "method": "voted"
+            },
+            {
+                "player_num": 4,
+                "method": "voted"
+            },
+            {
+                "player_num": 8,
+                "method": "voted"
+            },
+            {
+                "player_num": 1,
+                "method": "killed"
+            },
+            {
+                "player_num": 7,
+                "method": "voted"
+            }
+        ],
+        "misses": 1,
+        "mafias_remaining": 1,
+        "citizens_remaining": 1,
+        "length": 3402,
+        "rounds": 5,
+        "sheriffs": 2,
+        "youtube_id": "Izt7Kf0xy2A",
+        "win_move_hit": 0
+    },
+    {
+        "id": "127891",
+        "#": 39,
+        "date": "03/08/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "Churchill",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "IronDragon81",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Gandalf the black",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "SchrodingersCat",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Ozzmosis",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": true
+            },
+            {
+                "#": 8,
+                "name": "Funtone",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.4,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "free",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "5, 9, 10",
+        "game": 39,
+        "leave_order": [
+            {
+                "player_num": 7,
+                "method": "killed"
+            },
+            {
+                "player_num": 8,
+                "method": "voted"
+            },
+            {
+                "player_num": 6,
+                "method": "killed"
+            },
+            {
+                "player_num": 1,
+                "method": "voted"
+            },
+            {
+                "player_num": 9,
+                "method": "killed"
+            },
+            {
+                "player_num": 5,
+                "method": "voted"
+            },
+            {
+                "player_num": 3,
+                "method": "killed"
+            },
+            {
+                "player_num": 4,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 2,
+        "citizens_remaining": 2,
+        "length": 3280,
+        "rounds": 5,
+        "sheriffs": 1,
+        "youtube_id": "h_EdjxJElw8",
+        "win_move_hit": 0,
+        "sheriff_killed": true,
+        "nihushon": true
+    },
+    {
+        "id": "127892",
+        "#": 40,
+        "date": "03/08/2023",
+        "players": [
+            {
+                "#": 1,
+                "name": "IronDragon81",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 2,
+                "name": "Punisher",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 3,
+                "name": "DiffMaker",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 4,
+                "name": "Rocket",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 5,
+                "name": "Churchill",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 6,
+                "name": "Ozzmosis",
+                "role": "Don",
+                "is_win": false,
+                "bonus": 0.2,
+                "is_killed_first": false
+            },
+            {
+                "#": 7,
+                "name": "Funtone",
+                "role": "Citizen",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": true
+            },
+            {
+                "#": 8,
+                "name": "free",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 9,
+                "name": "mentos22",
+                "role": "Mafia",
+                "is_win": false,
+                "bonus": 0.0,
+                "is_killed_first": false
+            },
+            {
+                "#": 10,
+                "name": "SchrodingersCat",
+                "role": "Sheriff",
+                "is_win": true,
+                "bonus": 0.0,
+                "is_killed_first": false
+            }
+        ],
+        "winner": "Citizen",
+        "winning_move": "3, 8, 10",
+        "game": 40,
+        "leave_order": [
+            {
+                "player_num": 7,
+                "method": "killed"
+            },
+            {
+                "player_num": 3,
+                "method": "voted"
+            },
+            {
+                "player_num": 10,
+                "method": "killed"
+            },
+            {
+                "player_num": 6,
+                "method": "voted"
+            },
+            {
+                "player_num": 1,
+                "method": "killed"
+            },
+            {
+                "player_num": 9,
+                "method": "voted"
+            },
+            {
+                "player_num": 2,
+                "method": "killed"
+            },
+            {
+                "player_num": 8,
+                "method": "voted"
+            }
+        ],
+        "misses": 0,
+        "mafias_remaining": 2,
+        "citizens_remaining": 2,
+        "length": 3185,
+        "rounds": 5,
+        "sheriffs": 2,
+        "youtube_id": "W-4uRUt58Oo",
+        "win_move_hit": 1,
+        "sheriff_killed": true,
+        "nihushon": true
+    }
+]
