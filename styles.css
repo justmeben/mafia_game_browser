@@ -82,4 +82,8 @@ body {
     font-size: 12px;;
 }
 
-
+.chart-container {
+    width: 90%;
+    height: 90vh;
+    margin: 1rem auto;
+}
