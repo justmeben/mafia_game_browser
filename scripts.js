@@ -14,7 +14,7 @@ fetch('final_combined_games_data.json')
                 <div class="game-number">Game ${getGameNumberString(game['#'])}</div>
                 <div class="game-winner"><strong>Winner: </strong>${game.winner}</div>
                 <div class="game-duration"><strong>Duration: </strong>${Math.round(game.length / 60)} minutes</div>
-                <div class="game-tags hidden"></div>
+                <div class="game-tags"></div>
                 <div class="game-player hidden"></div>
             `;
 
