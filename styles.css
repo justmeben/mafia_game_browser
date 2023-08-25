@@ -33,7 +33,22 @@ body {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
-.game-number,
+.game-number{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 6px;
+    margin-bottom: 14px;
+    border-bottom: 1px solid #AAA;
+}
+
+.game-box.winner-citizen, .game-box.winner-citizen .game-number{
+    border-color: #ff8a8a;
+}
+.game-box.winner-mafia, .game-box.winner-mafia .game-number{
+    border-color: #7b7b7b;
+}
+
 .game-winner,
 .game-duration {
     margin-bottom: 8px;

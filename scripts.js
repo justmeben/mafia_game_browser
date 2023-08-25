@@ -8,10 +8,11 @@ fetch('final_combined_games_data.json')
         gamesData.forEach(game => {
             const gameBox = document.createElement('div');
             gameBox.classList.add('game-box');
+            gameBox.classList.add('winner-' + game.winner.toLowerCase());
             gameBox.innerHTML = `
-                <div class="game-number">Game: ${game['#']}</div>
-                <div class="game-winner">Winner: ${game.winner}</div>
-                <div class="game-duration">Duration: ${Math.round(game.length / 60)} minutes</div>
+                <div class="game-number">Game ${getGameNumberString(game['#'])}</div>
+                <div class="game-winner"><strong>Winner: </strong>${game.winner}</div>
+                <div class="game-duration"><strong>Duration: </strong>${Math.round(game.length / 60)} minutes</div>
             `;
 
             // Add click event to navigate to details page
