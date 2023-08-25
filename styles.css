@@ -59,8 +59,8 @@ body {
 }
 
 .player-select-container {
-    margin: 20px 0;
-    text-align: center;
+    margin: 20px;
+    text-align: left;
 }
 
 #playerSelect {
