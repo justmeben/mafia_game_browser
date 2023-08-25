@@ -50,10 +50,27 @@ fetch('final_combined_games_data.json')
                 ${missesString}
                 <p><strong>Sherrifs:</strong> ${game.sheriffs}</p>
                 <p><strong>End State:</strong> ${winningState}</p>
-                
-                <a target='_blank' href="https://the-mafia.net/rate_game/${game.id}" class="details-btn">Mafia Net Details</a>
-                <a target='_blank' href="https://www.youtube.com/watch?v=${game.youtube_id}" class="details-btn youtube-btn">Youtube Video</a>
             `;
+
+            const tagsContainer = document.getElementById('gameTags');
+            tagsContainer.innerHTML = '<strong>Tags: </strong>';
+
+            // Iterate through the game details and check for true values
+            Object.keys(game).forEach(key => {
+                if (game[key] === true) {
+                    const tagElement = document.createElement('span');
+                    tagElement.className = 'tag';
+                    tagElement.textContent = key;
+                    tagsContainer.appendChild(tagElement);
+                }
+            });
+
+            const btnContainer = document.getElementById('btnContainer');
+            btnContainer.innerHTML = `
+            <a target='_blank' href="https://the-mafia.net/rate_game/${game.id}" class="details-btn">Mafia Net Details</a>
+            <a target='_blank' href="https://www.youtube.com/watch?v=${game.youtube_id}" class="details-btn youtube-btn">Youtube Video</a>
+            `
+
 
             // Populate players table
             const playersTableBody = document.querySelector('#playersTable tbody');

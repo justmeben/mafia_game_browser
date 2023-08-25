@@ -890,6 +890,7 @@
         "rounds": 6,
         "youtube_id": "xvmj4Tw3-xw",
         "sheriffs": 2,
+        "nihushon": true,
         "win_move_hit": 1
     },
     {
@@ -1154,6 +1155,7 @@
         "youtube_id": "Mdz4GA1d8jI",
         "sheriffs": 1,
         "win_move_hit": 2,
+        "nihushon": true,
         "sheriff_killed_first": true,
         "sheriff_killed": true
     },
@@ -1280,8 +1282,7 @@
         "sheriffs": 1,
         "win_move_hit": 2,
         "sheriff_killed_first": true,
-        "sheriff_killed": true,
-        "nihushon": true
+        "sheriff_killed": true
     },
     {
         "id": "121949",
@@ -2320,8 +2321,7 @@
         "youtube_id": "_sW5kvah5mo",
         "win_move_hit": 1,
         "sheriff_killed_first": true,
-        "sheriff_killed": true,
-        "nihushon": true
+        "sheriff_killed": true
     },
     {
         "id": "123253",
@@ -2829,8 +2829,7 @@
         "sheriffs": 1,
         "youtube_id": "Zsfdd8v7Wu4",
         "win_move_hit": 1,
-        "sheriff_killed": true,
-        "nihushon": true
+        "sheriff_killed": true
     },
     {
         "id": "124576",
@@ -3606,8 +3605,7 @@
         "youtube_id": "-rOPikeT0pc",
         "win_move_hit": 1,
         "sheriff_killed_first": true,
-        "sheriff_killed": true,
-        "nihushon": true
+        "sheriff_killed": true
     },
     {
         "id": "125927",
@@ -4124,6 +4122,7 @@
         "length": 3488,
         "rounds": 5,
         "sheriffs": 2,
+        "nihushon": true,
         "youtube_id": "xxwsBBf5YI8",
         "win_move_hit": 2
     },
@@ -4376,8 +4375,7 @@
         "sheriffs": 2,
         "youtube_id": "fz1T7MTpSio",
         "win_move_hit": 0,
-        "mafia_self_kill": true,
-        "nihushon": true
+        "mafia_self_kill": true
     },
     {
         "id": "127115",
@@ -4627,8 +4625,7 @@
         "youtube_id": "mV8e87IpFBs",
         "win_move_hit": 1,
         "sheriff_killed_first": true,
-        "sheriff_killed": true,
-        "nihushon": true
+        "sheriff_killed": true
     },
     {
         "id": "127889",
@@ -4875,6 +4872,7 @@
         "length": 3402,
         "rounds": 5,
         "sheriffs": 2,
+        "nihushon": true,
         "youtube_id": "Izt7Kf0xy2A",
         "win_move_hit": 0
     },
@@ -5009,8 +5007,7 @@
         "sheriffs": 1,
         "youtube_id": "h_EdjxJElw8",
         "win_move_hit": 0,
-        "sheriff_killed": true,
-        "nihushon": true
+        "sheriff_killed": true
     },
     {
         "id": "127892",
@@ -5143,7 +5140,6 @@
         "sheriffs": 2,
         "youtube_id": "W-4uRUt58Oo",
         "win_move_hit": 1,
-        "sheriff_killed": true,
-        "nihushon": true
+        "sheriff_killed": true
     }
 ]

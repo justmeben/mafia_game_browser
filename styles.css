@@ -71,3 +71,15 @@ body {
 .hidden{
     display: none;
 }
+
+.tag {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 5px 5px 5px 0;
+    background-color: #e0e0e0;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-size: 12px;;
+}
+
+

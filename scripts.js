@@ -14,6 +14,7 @@ fetch('final_combined_games_data.json')
                 <div class="game-number">Game ${getGameNumberString(game['#'])}</div>
                 <div class="game-winner"><strong>Winner: </strong>${game.winner}</div>
                 <div class="game-duration"><strong>Duration: </strong>${Math.round(game.length / 60)} minutes</div>
+                <div class="game-tags hidden"></div>
                 <div class="game-player hidden"></div>
             `;
 
@@ -23,6 +24,28 @@ fetch('final_combined_games_data.json')
             });
 
             gamesContainer.appendChild(gameBox);
+
+            const showTags = document.getElementById('showTags');
+            const tagsContainer = document.querySelector('#game' + game['#'] + ' .game-tags');
+
+            showTags.addEventListener('change', function () {
+                if (showTags.checked) {
+                    tagsContainer.classList.remove('hidden');
+                }
+                else {
+                    tagsContainer.classList.add('hidden');
+                }
+            });
+
+            // Iterate through the game details and check for true values
+            Object.keys(game).forEach(key => {
+                if (game[key] === true) {
+                    const tagElement = document.createElement('span');
+                    tagElement.className = 'tag';
+                    tagElement.textContent = key;
+                    tagsContainer.appendChild(tagElement);
+                }
+            });
         });
 
         // Populate the player dropdown
@@ -41,7 +64,7 @@ fetch('final_combined_games_data.json')
         });
 
         // Event listener for when a player is selected
-        playerSelect.addEventListener('change', function() {
+        playerSelect.addEventListener('change', function () {
             document.querySelectorAll('.game-player').forEach(gameBox => {
                 gameBox.innerHTML = '';
                 gameBox.classList.add('hidden')
